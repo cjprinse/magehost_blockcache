@@ -6,7 +6,9 @@ app/code/community/MageHost/BlockCache/                              app/code/co
 app/design/frontend/base/default/layout/magehost/blockcache.xml      app/design/frontend/base/default/layout/magehost/blockcache.xml
 app/design/adminhtml/default/default/layout/magehost/blockcache.xml  app/design/adminhtml/default/default/layout/magehost/blockcache.xml
 app/design/adminhtml/default/default/template/magehost/blockcache/   app/design/adminhtml/default/default/template/magehost/blockcache/
-app/code/community/MageHost/Cm/Cache/Backend/File.php                app/code/community/MageHost/Cm/Cache/Backend/File.php
-app/code/community/MageHost/Cm/Cache/Backend/Redis.php               app/code/community/MageHost/Cm/Cache/Backend/Redis.php
-app/code/community/Cm/Cache/Backend/File.php                         app/code/community/Cm/Cache/Backend/File.php
 shell/mh_redis_cache_clean.php                                       shell/mh_redis_cache_clean.php
+
+#app/code/community/MageHost/Cm/Cache/Backend/File.php                app/code/community/MageHost/Cm/Cache/Backend/File.php
+#app/code/community/MageHost/Cm/Cache/Backend/Redis.php               app/code/community/MageHost/Cm/Cache/Backend/Redis.php
+#app/code/community/Cm/Cache/Backend/File.php                         app/code/community/Cm/Cache/Backend/File.php
+
