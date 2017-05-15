@@ -2,7 +2,7 @@
   "name":"cjprinse/magehost_blockcache",
   "type":"magento-module",
   "license":"GPL-3.0",
-  "homepage":"https://github.com/magehost/magehost_blockcache",
+  "homepage":"https://github.com/cjprinse/magehost_blockcache",
   "description":"MageHost_BlockCache: Performance improvement by caching big blocks in Magento.",
   "require":{
     "magento-hackathon/magento-composer-installer":"*",
