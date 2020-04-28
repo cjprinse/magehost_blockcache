@@ -5,7 +5,6 @@
   "homepage":"https://github.com/cjprinse/magehost_blockcache",
   "description":"MageHost_BlockCache: Performance improvement by caching big blocks in Magento.",
   "require":{
-    "magento-hackathon/magento-composer-installer":"*",
     "magehost/magehost_cm_cache_backend":"*",
     "colinmollenhour/cache-backend-redis":"*",
     "colinmollenhour/cache-backend-file":"*"
